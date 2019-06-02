@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Uso de contenedores</title>
+	</head>
+	<body>
+		<p>3 parrafos de Aviones</p>
+<div>
+	<div style="text-align: left;">
+Y es que a partir del sábado, Balthazar Rassam, el hijo que tienen en común Carlota y Dimitri, pasará a tener derechos dinásticos. El pequeño, que vino al mundo el pasado mes de octubre en el hospital Grace de Mónaco, no tiene derechos dinásticos porque sus padres no están casados, pero tras la boda de este sábado ocupará el undécimo puesto en la línea de sucesión, tras Jacques y Gabriella; Andrea Casiraghi y sus hijos, Sasha, India y Max; Pierre Casiraghi y sus dos vástagos, Stefano y Francesco; y su madre.
+	</div>
+	<div style="align-items: : center;">
+		<p align="center">Avi&oacute;n bonito</p>
+		<img src="https://ep01.epimg.net/elpais/imagenes/2015/12/28/paco_nadal/1451287800_145128_1451287800_noticia_normal.jpg" width="400">
+		<img src="http://blog.model-space.es/wp-content/uploads/2017/05/focke-wulf-fw-190.jpg" width="400">
+			</div>
+	<div style="text-align: right;">
+	El hermano mayor de Balthazar, Raphaël Elmaleh, es el único nieto de Carolina que no está presente en la citada línea. ¿La razón? Al no estar sus padres casados, él no tiene derechos dinásticos, por lo que jamás podrá optar al trono monegasco, a no ser que en un giro inesperado del destino Carlota se casara con Gad Elmaleh. La joven y el acto de origen marroquí estuvieron saliendo durante más de dos años y de esa unión nació Raphaël, que ahora tiene cinco años, pero jamás dieron muestras de querer casarse.
+</div>
+
+
+
+</div>
+	</body>
+</html>
